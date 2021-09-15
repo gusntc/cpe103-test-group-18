@@ -3,6 +3,9 @@ def multiply(a,b):
 
 i = 0
 
+def divide(a,b):
+    return(a/b)
+
 i = add (i, 3)
 i = multiply(i, 5)
 i = subtract(i, 1)
